@@ -1,0 +1,5 @@
+The train loss image is from a different run than the one I reported in the res.txt file.
+
+For the res.txt and predictions.txt I used the school's GPU.
+
+I wasn't able to produce differents plots using SSH and the school's GPU, so I ran the code using google collab for the plots.
